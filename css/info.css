@@ -1,0 +1,33 @@
+h3{
+  color: yellow;
+}
+.firstdiv {
+  color: blue;
+
+}
+.seconddiv{
+  color: green;
+
+}
+
+#uniq {
+  color: ;
+  text-decoration: line-through;
+}
+
+h3 + ul {
+  border: 5px dotted purple;
+
+}
+
+li textarea {
+  color: red;
+
+}
+input[type=checkbox] {
+    visibility: inherit;
+}
+
+li input[type=checkbox] {
+    visibility: visible;
+}

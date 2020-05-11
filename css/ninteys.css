@@ -1,5 +1,7 @@
 body {
-  background-color: #7b628a;
+  background-image: url("images/puppies.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 div {

@@ -1,0 +1,43 @@
+body {
+  background-color: #b0e0e6;
+}
+div p {
+  background-color: #fffca5;
+}
+h2{
+  color: #800080;
+}
+#itemone {
+    color: #800080;
+}
+li a {
+  color: #ff0000;
+}
+#textblock {
+  border: 5px solid gray;
+  width: 800px;
+  height: 400px;
+}
+
+
+/*Task # 2
+Change the h1 to have a 1px solid black border*/
+
+h1{
+  border: 1px solid black;
+}
+
+/*Task # 3
+Make all h2 elements the color purple*/
+
+
+/*Task # 4
+Make all input boxes have a 2px solid dark red border (use rgb for this)*/
+
+input{
+  border: 2px solid rgb(144, 0, 0);
+}
+
+/*Task # 5
+Give a light yellow background to all <p> elements inside of a <div> element
+Use HEX for the color*/

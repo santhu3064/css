@@ -1,0 +1,19 @@
+body {
+  background-color: #7b628a;
+}
+
+div {
+  background-color: #0007e0;
+  border-color: #e07f00;
+  border-width:5px;
+  border-style: dotted;
+}
+
+span{
+  background: #d60fb8;
+  color: #e07f00
+}
+
+p {
+  color: #0f0f0f;
+}

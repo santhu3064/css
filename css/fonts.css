@@ -1,0 +1,27 @@
+body {
+  font-family: "Verdana";
+  background-image: url("images/sunrise.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 15px
+}
+h1{
+  text-align: center;
+}
+
+p{
+  color: #44d60f;
+  font-size: 1.25em
+}
+#mom {
+  color: #094ee3;
+  font-size: 1.15em
+}
+.mom {
+    height: 270px;
+    width: 300px;
+}
+div h2 {
+  color: #e607ae;
+  text-align: justify;
+}

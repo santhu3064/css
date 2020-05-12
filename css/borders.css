@@ -1,0 +1,13 @@
+#top{
+  border: 5px solid blue;
+  margin: 10px 20px 30px 40px;
+  width: 25%;
+}
+#bottom{
+  border: 5px solid green;
+  border-style: dotted;
+  width: 50%;
+  /*top,right,bottom,left*/
+  padding: 40px 25px 100px 300px;
+
+}

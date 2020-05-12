@@ -7,10 +7,15 @@ body {
 }
 h1{
   text-align: center;
+  font-family: 'SpotCookieRegular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 5em;
+  color: red;
 }
 
 p{
-  color: #44d60f;
+  color: #e64e07;
   font-size: 1.25em;
   font-style: oblique;
   font-weight: normal;
@@ -24,6 +29,7 @@ p{
     width: 300px;
 }
 div h2 {
+  font-family: 'Great Vibes', cursive;
   color: #e607ae;
   text-align: justify;
 }

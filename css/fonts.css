@@ -11,7 +11,9 @@ h1{
 
 p{
   color: #44d60f;
-  font-size: 1.25em
+  font-size: 1.25em;
+  font-style: oblique;
+  font-weight: normal;
 }
 #mom {
   color: #094ee3;
